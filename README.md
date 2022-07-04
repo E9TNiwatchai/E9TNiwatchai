@@ -1,6 +1,6 @@
 <h3 align="left">Hi 👋, I'm @E9TDevNiwat9</h3>
 <h5 align="left">Front-end and Back-end Developer</h5>
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31zp7itkrw5d32zttuktncr5fsxq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31zp7itkrw5d32zttuktncr5fsxq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zp7itkrw5d32zttuktncr5fsxq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <h5 align="left">Connect with me :</h5>
 <p align="left">
