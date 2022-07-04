@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋, I'm @E9TDevNiwat9</h3>
-<h5 align="center">A passionate frontend developer from India</h5>
+<h3 align="left">Hi 👋, I'm @E9TDevNiwat9</h3>
+<h5 align="left">Front-end and Back-end Developer</h5>
 
 <h5 align="left">Connect with me :</h5>
 <p align="left">
